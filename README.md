@@ -12,6 +12,3 @@ Schadenzahlungen sind üblicherweise lognormalverteilt. Durch Inflation verschie
 Anstatt nun einfach das arithmetische Mittel der Schäden für jedes Quartal auszuwerten, kann man auch ein Mittel wählen, das auf die Lognormalverteilung angepasst ist.   
 Im zweiten Ordner befindet sich einerseits eine pdf-Datei, in der ein Erwartungswertschätzer aus der Maximum-Likelihood-Estimation (MLE) herleitet. 
 Des weiteren befindet sich dain ein Notebook, das die Konvergenzgeschwindigkeit des MLE-Schätzers mit dem arithmetischen Mittel vergleicht.
- 
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
