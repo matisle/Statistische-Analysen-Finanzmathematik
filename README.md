@@ -10,5 +10,5 @@ sowie die Herleitung der Voraussage vom zukünftigen Kapitalbedarf.
 **Projekt 2:** Das Jahr 2023 war von starker Inflation geprägt, die den Kapitalbedarf beeinflusst. Aufgabe war hier das Bestimmen einer spartenspezifischen Schadeninflation. 
 Schadenzahlungen sind üblicherweise lognormalverteilt. Durch Inflation verschiebt sich auf quartärlicher Basis der Erwartungswert der Verteilungen. 
 Anstatt nun einfach das arithmetische Mittel der Schäden für jedes Quartal auszuwerten, kann man auch ein Mittel wählen, das auf die Lognormalverteilung angepasst ist.   
-Im zweiten Ordner befindet sich einerseits eine pdf-Datei, in der ein Erwartungswertschätzer aus der Maximum-Likelihood-Estimation (MLE) herleitet. 
-Des weiteren befindet sich dain ein Notebook, das die Konvergenzgeschwindigkeit des MLE-Schätzers mit dem arithmetischen Mittel vergleicht.
+Im zweiten Ordner befindet sich einerseits eine pdf-Datei, in der ein Erwartungswertschätzer aus der Maximum-Likelihood-Estimation (MLE) hergeleitet ist. 
+Des weiteren befindet sich dain ein Notebook, das die Konvergenzgeschwindigkeit des MLE-Schätzers mit der des arithmetischen Mittels vergleicht.
